@@ -1,0 +1,6 @@
+101,Ali Khan,25,Male,Street 1 Islamabad,ali.khan@example.com,pass101,Patient
+102,Ayesha Tariq,30,Female,Sector G-10 Islamabad,ayesha.tariq@example.com,pass102,Patient
+103,Shaheer,18,male,H-13 Islamabad,shaheer@gmail.com,pass103,Patient
+201,Dr. Faisal Siddiqui,45,Male,F-7 Clinic Islamabad,faisal.siddiqui@example.com,docpass201,Doctor
+202,Dr. Nadia Hassan,38,Female,Clifton Medical Center Karachi,nadia.hassan@example.com,docpass202,Doctor
+2004,Zain Ul Abideen,40,Male,H-12 Islamabad,zain.abideen@example.com,adminpass,Administrator
